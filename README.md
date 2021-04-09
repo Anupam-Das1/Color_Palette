@@ -7,3 +7,6 @@ when we click the option Create Palette
 hare we can create our own color( colos will unique name ), we can generate random color, go back and save option is also there
 we can drag the color to place it in any possition
 ![cp3](https://user-images.githubusercontent.com/79990459/114151287-96145580-993a-11eb-9ad6-870c7ea8c2b9.png)
+
+when we click on save option , a display box pop up and ask to put a unique name of our palette
+![cp4](https://user-images.githubusercontent.com/79990459/114151725-0ae78f80-993b-11eb-9937-aaf95e9ed584.png)
